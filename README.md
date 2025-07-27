@@ -2,15 +2,35 @@
 
 ## 📋 Projects Overview
 
-## 🏊 42 Piscine
-| Project | Description | Status |
-|--------------|-------------|--------|
-| [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | Master the command line, build foundational and advanced C projects | ✅ Completed |
+### 🏊 42 Piscine
+- **[Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024)** – Master the command line, build foundational and advanced C projects ✅
 
 ### 🎓 42 Cursus
 - **libft** – Build standard library functions ✅
 - **get_next_line** – Read a file line-by-line efficiently ✅
+- **printf** - Recreate printf with formatting support ✅
+- **mini_talk** - Build a client-server communication system using Unix signals ✅
 - **push_swap** – Sort numbers using limited operations 🔄
+
+## 🤖 Artificial intelligence
+🔄
+
+## 💡 CS50 Introduction to Computer Science
+- **[Problem sets](https://github.com/code50/144224325)** – Solve challenges in algorithms, data structures, and web development ✅
+- **[Final Project](https://github.com/me50/Fonh123)** - Build an app to solve a real-world problem ✅
+
+## 🧱 Technology Foundations
+- **docker** – 🔄
+- **lldb, dgb** – 🛠
+- **docker** – 🔄
+
+## 🧩 Think like a programmer - problem solving - experiment
+
+<!--
+## 🏊 42 Piscine
+| Project | Description | Status |
+|--------------|-------------|--------|
+| [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | Master the command line, build foundational and advanced C projects | ✅ Completed |
 
 ## 🎓 42 Cursus
 | Project | Description | Status |
@@ -40,7 +60,7 @@
 | wsl       |  | 🔄 In Progress |
 
 ## 🧩🧠 Think like a programmer - problem solving - experiment
-
+--!>
 <!--
 **PhongBuiMinh/PhongBuiMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
