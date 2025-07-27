@@ -7,6 +7,11 @@
 |--------------|-------------|--------|
 | [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | Master the command line, build foundational and advanced C projects | ✅ Completed |
 
+### 🎓 42 Cursus
+- **libft** – Build standard library functions ✅
+- **get_next_line** – Read a file line-by-line efficiently ✅
+- **push_swap** – Sort numbers using limited operations 🔄
+
 ## 🎓 42 Cursus
 | Project | Description | Status |
 |--------------|-------------|--------|
