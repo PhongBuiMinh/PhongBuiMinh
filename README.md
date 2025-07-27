@@ -1,8 +1,8 @@
 ## Hello World! 👋
 
 ## Table of contents
-- [42 Piscine](#42 Piscine)
-- [42 Cursus](#42 Cursus)
+- [42 Piscine](#42-Piscine)
+- [42 Cursus](#42-Cursus)
 - [AI](#AI)
 
 ## 42 Piscine
