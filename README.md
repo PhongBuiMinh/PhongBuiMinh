@@ -1,11 +1,11 @@
 # Hello World! 🌱✨
 
-## 📋 Projects Overview
+# 📋 Projects Overview
 
-### 🏊 42 Piscine
+## 🏊 42 Piscine
 - **[Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024)** – Master the command line, build foundational and advanced C projects ✅
 
-### 🎓 42 Cursus
+## 🎓 42 Cursus
 - **libft** – Build standard library functions ✅
   
 - **get_next_line** – Read a file line-by-line efficiently ✅
