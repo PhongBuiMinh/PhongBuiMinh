@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-## Projects Overview
+## 📋 Projects Overview
 
 ## 🏊 42 Piscine
 | Project | Description | Status |
