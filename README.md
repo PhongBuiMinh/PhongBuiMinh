@@ -5,8 +5,7 @@
 ## 🚀 42 Piscine
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | Master the command line;
-build foundational and advanced C projects | ✅ Completed |
+| [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | Master the command line, build foundational and advanced C projects | ✅ Completed |
 
 ## ⚙️ 42 Cursus
 | Project Name | Description | Status |
@@ -20,14 +19,13 @@ build foundational and advanced C projects | ✅ Completed |
 ## 🎮 Artificial intelligence
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-|  | 2D platformer | ✅ Completed |
-|  | Top-down shooter | 🔄 In Progress |
+|  |  | 🔄 In Progress |
 
-## 🎮 CS50
+## 🎮 CS50 Introduction to Computer Science
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| Pixel Adventure | Solve challenges in algorithms, data structures, and web development | ✅ Completed |
-| Space Explorer   | Build an app to solve a real-world problem | ✅ Completed |
+| [Problem sets](https://github.com/code50/144224325) | Solve challenges in algorithms, data structures, and web development | ✅ Completed |
+| [Final Project](https://github.com/me50/Fonh123)   | Build an app to solve a real-world problem | ✅ Completed |
 
 <!--
 **PhongBuiMinh/PhongBuiMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
