@@ -5,7 +5,7 @@
 ## 🚀 42 Piscine
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | master the command line, build foundational and advanced C projects | ✅ Completed |
+| [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | Master the command line, build foundational and advanced C projects | ✅ Completed |
 
 ## ⚙️ 42 Cursus
 | Project Name | Description | Status |
