@@ -5,12 +5,6 @@
 - [42 Cursus](#42-Cursus)
 - [AI](#AI)
 
-## 42 Cursus
-### Circle 0
-* [libft](https://github.com/PhongBuiMinh/Cursus42Heilbronn_March2025) - My C library
-
-## AI
-
 # Projects Overview
 
 ## 🚀 42 Piscine
