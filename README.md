@@ -15,11 +15,11 @@
 ## 🎓 42 Cursus
 | Project | Description | Status |
 |--------------|-------------|--------|
-| libft | Build standard library functions | ✅ Completed |
-| get_next_line | Read a file line-by-line efficiently | ✅ Completed |
-| printf | Recreate printf with formatting support | ✅ Completed |
-| mini_talk | Build a client-server communication system using Unix signals | ✅ Completed |
-| push_swap | Sort numbers using limited operations and clever algorithms | 🔄 In Progress |
+| libft | Build standard library functions                                      | ✅ Completed   |
+| get_next_line | Read a file line-by-line efficiently                          | ✅ Completed   |
+| printf        | Recreate printf with formatting support                       | ✅ Completed   |
+| mini_talk     | Build a client-server communication system using Unix signals | ✅ Completed   |
+| push_swap     | Sort numbers using limited operations and clever algorithms   | 🔄 In Progress |
 
 ## 🤖 Artificial intelligence
 | Project | Description | Status |
@@ -30,14 +30,14 @@
 | Project | Description | Status |
 |--------------|-------------|--------|
 | [Problem sets](https://github.com/code50/144224325) | Solve challenges in algorithms, data structures, and web development | ✅ Completed |
-| [Final Project](https://github.com/me50/Fonh123)   | Build an app to solve a real-world problem | ✅ Completed |
+| [Final Project](https://github.com/me50/Fonh123)    | Build an app to solve a real-world problem                           | ✅ Completed |
 
 ## 🧱 Technology Foundations
 | Project | Description | Status |
 |--------------|-------------|--------|
-| Docker |  | 🔄 In Progress |
-| lldb, dgb |  | 🛠 Planning |
-| wsl |  | 🔄 In Progress |
+| Docker    |  | 🔄 In Progress |
+| lldb, dgb |  | 🛠 Planning     |
+| wsl       |  | 🔄 In Progress |
 
 ## 🧩🧠 Think like a programmer - problem solving - experiment
 
