@@ -28,6 +28,11 @@
 | [Final Project](https://github.com/me50/Fonh123)   | Build an app to solve a real-world problem | ✅ Completed |
 
 ## 🧱 Technology Foundations
+| Project | Description | Status |
+|--------------|-------------|--------|
+| Docker |  | 🔄 In Progress |
+| lldb, dgb |  | 🛠 Planning |
+| wsl |  | 🔄 In Progress |
 
 ## 🧩🧠 Think like a programmer - problem solving - experiment
 
