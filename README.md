@@ -1,5 +1,8 @@
 # Hello World! 🌱✨
 
+## Stack
+[!gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 # 📋 Projects Overview
 
 ## 🏊 42 Piscine
