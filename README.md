@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello World! 👋
+
+### 42 Piscine
+
+### 42 Cursus
+### Circle 0
+* [libft](git@github.com:PhongBuiMinh/Cursus42Heilbronn_March2025.git) - My C library
 
 <!--
 **PhongBuiMinh/PhongBuiMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
