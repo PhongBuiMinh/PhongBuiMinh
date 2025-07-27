@@ -5,14 +5,15 @@
 ## 🚀 42 Piscine
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | Master the command line, build foundational and advanced C projects | ✅ Completed |
+| [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | Master the command line;
+build foundational and advanced C projects | ✅ Completed |
 
 ## ⚙️ 42 Cursus
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| libft | Recreate your own standard library functions | ✅ Completed |
+| libft | Build standard library functions | ✅ Completed |
 | get_next_line | Read a file line-by-line efficiently | ✅ Completed |
-| printf | Build your own version of printf with formatting support | ✅ Completed |
+| printf | Recreate printf with formatting support | ✅ Completed |
 | mini_talk | Build a client-server communication system using Unix signals | ✅ Completed |
 | push_swap | Sort numbers using limited operations and clever algorithms | 🛠 Planning |
 
