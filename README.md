@@ -16,20 +16,20 @@
 | mini_talk | Build a client-server communication system using Unix signals | ✅ Completed |
 | push_swap | Sort numbers using limited operations and clever algorithms | 🔄 In Progress |
 
-## 🧱 Artificial intelligence
+## 🤖 Artificial intelligence
 | Project | Description | Status |
 |--------------|-------------|--------|
 |  |  | 🔄 In Progress |
 
-## 🧩🧠 CS50 Introduction to Computer Science
+## 💡 CS50 Introduction to Computer Science
 | Project | Description | Status |
 |--------------|-------------|--------|
 | [Problem sets](https://github.com/code50/144224325) | Solve challenges in algorithms, data structures, and web development | ✅ Completed |
 | [Final Project](https://github.com/me50/Fonh123)   | Build an app to solve a real-world problem | ✅ Completed |
 
-## Technology Foundations
+## 🧱 Technology Foundations
 
-## Think like a programmer - problem solving - experiment
+## 🧩🧠 Think like a programmer - problem solving - experiment
 
 <!--
 **PhongBuiMinh/PhongBuiMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
