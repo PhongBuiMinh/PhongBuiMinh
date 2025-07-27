@@ -25,7 +25,7 @@
 - **[push_swap](https://github.com/PhongBuiMinh/Cursus42Heilbronn_March2025/tree/master/Circle02/push_swap)** – Sort numbers using limited operations 🔄
 
 ## 🤖 Artificial intelligence
-- **(project title coming soon)** - 🔄
+- **[(project title coming soon)](https://github.com/PhongBuiMinh/Artificial-Intelligence_March2025)** - 🔄
 
 ## 💡 CS50 Introduction to Computer Science
 - **[Problem sets](https://github.com/code50/144224325)** – Solve challenges in algorithms, data structures, and web development ✅
@@ -37,7 +37,8 @@
 - **docker** – 🔄
 
 ## 🧩 Think like a programmer
-- **Problem solving, experimentation, and creative logic exploration** 🔄
+- **[Problem solving, experimentation](https://github.com/PhongBuiMinh/Think_like_a_programmer)** 🔄
+- **[Creative logic exploration and experimention](https://github.com/PhongBuiMinh/Helper_functions)**
 
 ## 🌍 Innovation & Social Solutions
 🛠
