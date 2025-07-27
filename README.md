@@ -38,7 +38,7 @@
 
 ## 🧩 Think like a programmer
 - **[Problem solving, experimentation](https://github.com/PhongBuiMinh/Think_like_a_programmer)** 🔄
-- **[Creative logic exploration and experimention](https://github.com/PhongBuiMinh/Helper_functions)**
+- **[Creative logic exploration and experimention](https://github.com/PhongBuiMinh/Helper_functions)** 🔄
 
 ## 🌍 Innovation & Social Solutions
 🛠
