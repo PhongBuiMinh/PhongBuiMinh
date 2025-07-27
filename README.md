@@ -13,6 +13,27 @@
 
 ## AI
 
+# Projects Overview
+
+## 🚀 Web Projects
+| Project Name | Description | Status |
+|--------------|-------------|--------|
+| Portfolio Site | Personal showcase | ✅ Completed |
+| Blog Engine    | Markdown-based CMS | 🔄 In Progress |
+
+## ⚙️ CLI Tools
+| Project Name | Description | Status |
+|--------------|-------------|--------|
+| QuickSort CLI | Terminal sorting utility | ✅ Completed |
+| BackupBuddy   | Auto backup script | 🛠 Planning |
+
+## 🎮 Game Development
+| Project Name | Description | Status |
+|--------------|-------------|--------|
+| Pixel Adventure | 2D platformer | ✅ Completed |
+| Space Explorer   | Top-down shooter | 🔄 In Progress |
+
+
 <!--
 **PhongBuiMinh/PhongBuiMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
