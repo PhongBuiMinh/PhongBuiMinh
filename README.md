@@ -1,11 +1,6 @@
-## Hello World! 👋
+# Hello World! 👋
 
-## Table of contents
-- [42 Piscine](#42-Piscine)
-- [42 Cursus](#42-Cursus)
-- [AI](#AI)
-
-# Projects Overview
+## Projects Overview
 
 ## 🚀 42 Piscine
 | Project Name | Description | Status |
@@ -28,6 +23,10 @@
 <!--
 **PhongBuiMinh/PhongBuiMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Table of contents
+- [42 Piscine](#42-Piscine)
+- [42 Cursus](#42-Cursus)
+- [AI](#AI)
 | Blog Engine    | Markdown-based CMS | 🔄 In Progress |
 
 Here are some ideas to get you started:
