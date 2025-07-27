@@ -15,7 +15,7 @@
 - **push_swap** – Sort numbers using limited operations 🔄
 
 ## 🤖 Artificial intelligence
-🔄
+- **(project title coming soon)** - 🔄
 
 ## 💡 CS50 Introduction to Computer Science
 - **[Problem sets](https://github.com/code50/144224325)** – Solve challenges in algorithms, data structures, and web development ✅
@@ -26,7 +26,11 @@
 - **lldb, dgb** – 🛠
 - **docker** – 🔄
 
-## 🧩 Think like a programmer - problem solving - experiment
+## 🧩 Think like a programmer
+- **Problem solving, experimentation, and creative logic exploration** 🔄
+
+## 🌍 Innovation & Social Solutions
+🛠
 
 <!--
 ## 🏊 42 Piscine
