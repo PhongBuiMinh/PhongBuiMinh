@@ -3,12 +3,12 @@
 ## Projects Overview
 
 ## 🚀 42 Piscine
-| Project Name | Description | Status |
+| Project | Description | Status |
 |--------------|-------------|--------|
 | [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | Master the command line, build foundational and advanced C projects | ✅ Completed |
 
 ## ⚙️ 42 Cursus
-| Project Name | Description | Status |
+| Project | Description | Status |
 |--------------|-------------|--------|
 | libft | Build standard library functions | ✅ Completed |
 | get_next_line | Read a file line-by-line efficiently | ✅ Completed |
@@ -17,12 +17,12 @@
 | push_swap | Sort numbers using limited operations and clever algorithms | 🛠 Planning |
 
 ## 🎮 Artificial intelligence
-| Project Name | Description | Status |
+| Project | Description | Status |
 |--------------|-------------|--------|
 |  |  | 🔄 In Progress |
 
 ## 🎮 CS50 Introduction to Computer Science
-| Project Name | Description | Status |
+| Project | Description | Status |
 |--------------|-------------|--------|
 | [Problem sets](https://github.com/code50/144224325) | Solve challenges in algorithms, data structures, and web development | ✅ Completed |
 | [Final Project](https://github.com/me50/Fonh123)   | Build an app to solve a real-world problem | ✅ Completed |
