@@ -5,8 +5,6 @@
 - [42 Cursus](#42-Cursus)
 - [AI](#AI)
 
-## 42 Piscine
-
 ## 42 Cursus
 ### Circle 0
 * [libft](https://github.com/PhongBuiMinh/Cursus42Heilbronn_March2025) - My C library
@@ -15,19 +13,18 @@
 
 # Projects Overview
 
-## 🚀 Web Projects
+## 🚀 42 Piscine
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| Portfolio Site | Personal showcase | ✅ Completed |
-| Blog Engine    | Markdown-based CMS | 🔄 In Progress |
+| [Swimming Pool](https://github.com/PhongBuiMinh/Piscine42Heilbronn_November2024) | C programming and Unix fundamentals | ✅ Completed |
 
-## ⚙️ CLI Tools
+## ⚙️ 42 Cursus
 | Project Name | Description | Status |
 |--------------|-------------|--------|
 | QuickSort CLI | Terminal sorting utility | ✅ Completed |
 | BackupBuddy   | Auto backup script | 🛠 Planning |
 
-## 🎮 Game Development
+## 🎮 Artificial intelligence
 | Project Name | Description | Status |
 |--------------|-------------|--------|
 | Pixel Adventure | 2D platformer | ✅ Completed |
@@ -36,6 +33,8 @@
 
 <!--
 **PhongBuiMinh/PhongBuiMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+| Blog Engine    | Markdown-based CMS | 🔄 In Progress |
 
 Here are some ideas to get you started:
 
