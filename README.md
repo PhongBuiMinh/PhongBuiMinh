@@ -35,8 +35,8 @@
 - **lldb, dgb** – 🛠
 - **[wsl]()** – 🛠
 - **coding tools** – 🔄
-- **[git](https://github.com/PhongBuiMinh/Technology_foundation)** – 🔄
-- **[docker](https://github.com/PhongBuiMinh/Technology_foundation)** – 🔄
+- **[git](https://github.com/PhongBuiMinh/Technology_foundation/blob/master/intro-git.md)** – 🔄
+- **[docker](https://github.com/PhongBuiMinh/Technology_foundation/blob/master/intro-docker.md)** – 🔄
 
 ## 🧩 Think like a programmer
 - **[problem solving, experimentation](https://github.com/PhongBuiMinh/Think_like_a_programmer)** 🔄
